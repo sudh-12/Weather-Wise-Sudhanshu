@@ -1,0 +1,41 @@
+
+      * {
+        margin : 0;
+        padding : 0;
+      }
+
+      body {
+background-image : url(https://img.freepik.com/premium-vector/clouds-stars-sun-blue-background-childrens-vector-illustration-sky_153074-219.jpg);
+background-size : cover;
+background-repeat : no-repeat;
+height : 100vh;
+
+      }
+
+      .datetime{
+            font-size: 18px;
+            padding : 24px;
+            color:black;
+            text-align: center;
+            /* background-color: black; */
+            font-style:oblique;
+      }
+
+      .time{
+            font-style: normal;
+      }
+
+    
+
+      .text-start{
+            font-size: 20px;
+      }
+
+      .navbar-brand{
+            border: 0cqw;
+            text-shadow: 0cm;
+            color: blue;
+            text-decoration: line-through;
+      }
+
+      
